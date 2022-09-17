@@ -17,8 +17,6 @@ body{
   border-bottom: 1px solid #fefefe;
   padding-right: 15px;
   padding-left: 15px;
-  /* margin-left: auto;
-  margin-right: auto; */
 }
 
 @media (min-width: 1200px){
@@ -72,7 +70,6 @@ body{
   /* padding-top: 120px; */
   display: flex;
   justify-content: space-between;
-  /* align-items: center; */
   width: 100%;
   padding: 120px 0;
 }
@@ -282,9 +279,7 @@ body{
 .swiper-slide {
   text-align: center;
   font-size: 18px;
-  /* background: red; */
 
-  /* Center slide text vertically */
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
@@ -337,9 +332,6 @@ body{
   width: 100%;
 }
 
-/* .swiper-button-prev:after{
-  content:none
-} */
 .swiper-wraper .swiper-button-next{
   right: 18%;
   left: auto;
